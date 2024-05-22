@@ -1,5 +1,7 @@
 Mini Calculator
+
 Functionality: Perform basic arithmetic operations (addition, subtraction, multiplication, division) on numbers. 
+
 Features: 
 1. Number Buttons: Buttons for digits 0-9 to input numbers.
 2. Operation Buttons: Buttons for addition (+), subtraction (-), multiplication (*), division (/), and equals (=) for calculations.
